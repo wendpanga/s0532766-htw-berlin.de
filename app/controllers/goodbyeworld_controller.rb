@@ -1,0 +1,2 @@
+class GoodbyeworldController < ApplicationController
+end
